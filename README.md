@@ -1,3 +1,3 @@
 # CodeDay-Site
 
-#[Description]
+Sample CodeDay site
